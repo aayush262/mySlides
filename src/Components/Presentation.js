@@ -9,7 +9,7 @@ export const Presentation = () => {
 
                     <Heading color='' style={{ visibility: 'hidden' }} size={1}>Topic</Heading>
 
-                    <Heading style={{fontSize:'72px'}}>Tips and Tricks on creating a Research Poster</Heading>
+                    <Heading style={{fontSize:'72px'}}>Tips and Tricks for creating a Research Poster</Heading>
                 </Slide>
                 <Slide backgroundColor={'#F9F9F9'}>
 
