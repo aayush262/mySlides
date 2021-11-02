@@ -42,7 +42,7 @@ export const Presentation = () => {
                     <Text  style={{fontSize:'35px',padding:0}}>- Title should be short and interesting</Text>
                     <Text  style={{fontSize:'35px',padding:0}}>- Important information should be readable from about 10 feet away</Text>
                     <Text  style={{fontSize:'35px',padding:0}}>- Word count of about 300 to 800 words</Text>
-                    <Text  style={{fontSize:'35px',padding:0}}>- Text should clear and to the point</Text>
+                    <Text  style={{fontSize:'35px',padding:0}}>- Text should be clear and to the point</Text>
                     <Text  style={{fontSize:'35px',padding:0}}>- Effective use of graphics, color and fonts</Text>
                     <Text  style={{fontSize:'35px',padding:0}}>- Use of bullets, numbering, and headlines</Text>
                     <Text  style={{fontSize:'35px',padding:0}}>- Consistent and clean layout</Text>
